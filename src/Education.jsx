@@ -6,7 +6,7 @@ import Nav from './Nav'
 class Education extends Component {
   render() {
     return (
-      <div class="show2">
+      <div class="edu">
         <Nav header="EDUCATION"/>
        
         <div class="edu-mid">HIGH SCHOOL</div>

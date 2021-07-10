@@ -152,7 +152,8 @@ div.aos-init.aos-animate:hover{
  margin-left: 20px;}
 .intro{
  font-size: x-large;
- color:white;
+ color:rgb(214, 210, 210);
+ font-family: 'Encode Sans SC', sans-serif;
 }
 .email{
   height:300px;
@@ -174,14 +175,14 @@ div.aos-init.aos-animate:hover{
   text-decoration: none;
   font-size: x-large;
 }
-.link a :active{
+a.link:link{
   color:white;
 }
-.link:visited{
+a.link:visited{
   color:white;
 }
-.link:hover{
-  color:rgb(240, 229, 229);
+a.link:hover{
+  color:rgb(44, 41, 41);
 }
 #links{
   display:block;
@@ -302,14 +303,31 @@ a.social:active{
   background-image: url("moon.jpg.jpg");
 }
 .show1{
-  background-image: url("bg.webp");
+  background-image: url("./pexels-dorran-1643280.jpg");
+
+  
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center ;
+}
+.sk{
+  background-image: url("./tutu.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center ;
+
+}
+.edu{
+  background-image: url("./=taa.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center ;
 }
 .show2{
-  background-image: url("tutu.jpg");
+  background-image: url("./pexels-mohan-reddy-atalu-4165992.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
