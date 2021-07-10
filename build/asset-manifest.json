@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/daniyalnawaz.heek/static/css/main.17e02fce.chunk.css",
+    "main.js": "/daniyalnawaz.heek/static/js/main.baaf48f8.chunk.js",
+    "main.js.map": "/daniyalnawaz.heek/static/js/main.baaf48f8.chunk.js.map",
+    "runtime-main.js": "/daniyalnawaz.heek/static/js/runtime-main.d3b75f7d.js",
+    "runtime-main.js.map": "/daniyalnawaz.heek/static/js/runtime-main.d3b75f7d.js.map",
+    "static/css/2.ec02d681.chunk.css": "/daniyalnawaz.heek/static/css/2.ec02d681.chunk.css",
+    "static/js/2.a9e0154d.chunk.js": "/daniyalnawaz.heek/static/js/2.a9e0154d.chunk.js",
+    "static/js/2.a9e0154d.chunk.js.map": "/daniyalnawaz.heek/static/js/2.a9e0154d.chunk.js.map",
+    "index.html": "/daniyalnawaz.heek/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/daniyalnawaz.heek/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.17e02fce.chunk.css.map": "/daniyalnawaz.heek/static/css/main.17e02fce.chunk.css.map",
+    "static/js/2.a9e0154d.chunk.js.LICENSE.txt": "/daniyalnawaz.heek/static/js/2.a9e0154d.chunk.js.LICENSE.txt",
+    "static/media/portfolio.css": "/daniyalnawaz.heek/static/media/tutu.69fc613c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3b75f7d.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.a9e0154d.chunk.js",
+    "static/css/main.17e02fce.chunk.css",
+    "static/js/main.baaf48f8.chunk.js"
+  ]
+}

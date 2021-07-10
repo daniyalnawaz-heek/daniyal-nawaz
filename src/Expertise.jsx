@@ -17,8 +17,8 @@ class Expertise extends Component {
   render() {
     return (
       <div class="expert" data-aos="flip-left" style={{'margin-left':this.props.margin}}>
-        <div>
-          <h5>{this.props.expert}</h5>
+        <div >
+          <h5 >{this.props.expert}</h5>
           
         </div>
         

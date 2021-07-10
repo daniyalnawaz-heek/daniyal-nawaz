@@ -9,31 +9,33 @@ export class Project extends Component {
     return (
       <div class="show2">
         <Nav header="PROJECTS"/>
-        <Workleft link="" detail="" title="TIP CALCULATOR" />
-        <Workright link="" detail="" title="SPAM BOT"  />
-        <Workleft  link="" detail="" title="TWEET AUTOMATION" />
-        <Workright link="" detail="" title="TIP CALCULATOR"  />
-        <Workleft  link="" detail="" title="SMS FLOODING" />
-        <Workright link="" detail="" title="MUSIC PLAYER"  />
-        <Workleft  link="" detail="" title="PASSWORD GENERATOR" />
-        <Workright link="" detail="" title="WEATHER WEBSITE"  />
-        <Workleft  link="" detail="" title="PASSOWRD VALIDATOR" />
-        <Workright link="" detail="" title="VIRTUAL KEYBOARD"  />
-        <Workleft  link="" detail="" title="URL SHORTNER" />
-        <Workright link="" detail="" title="QR CODE GENERATOR"  />
-        <Workleft  link="" detail="" title="WHATSAPP AUTOMATION" />
-        <Workright link="" detail="" title="LOGIN AUTHENTICATION" />
-        <Workleft link="" detail="" title="PDF TO SPEECH"    />
-        <Workright link="" detail="" title="TEXT TO SPEECH"     />
-        <Workleft  link="" detail="" title="SPEECH TO TEXT"   />
+
+        <Workleft  link="https://github.com/daniyalnawaz-heek/whatsapp_bot" detail="" title="WHATSAPP AUTOMATION" />
         
-        <Workright link="" detail="" title="URL SHORTNER"    />
-        <Workleft  link="" detail="" title="URL SHORTNER"   />
-        <Workright link="" detail="" title="URL SHORTNER"    />
-        <Workleft  link="" detail="" title="URL SHORTNER"   />
-        <Workright link="" detail="" title="URL SHORTNER"    />
-        <Workleft  link="" detail="" title="URL SHORTNER"   />
-        <Workright link="" detail="" title="URL SHORTNER"    />
+        <Workright link="https://github.com/daniyalnawaz-heek/sms_bomber-flipkart-" detail="" title="SPAM BOT"  />
+        <Workleft  link="https://github.com/daniyalnawaz-heek/automation_tweet" detail="" title="TWEET AUTOMATION" />
+        <Workright link="https://github.com/daniyalnawaz-heek/virtual_keyboard" detail="" title="VIRTUAL KEYBOARD"  />
+        <Workleft  link="https://github.com/daniyalnawaz-heek/Spam-bot" detail="" title="SMS FLOODING" />
+        <Workright link="https://github.com/daniyalnawaz-heek/music_player" detail="" title="AUDIO PLAYER"  />
+        <Workleft  link="https://github.com/daniyalnawaz-heek/password-generator" detail="" title="PASSWORD GENERATOR" />
+
+        <Workright link="https://github.com/daniyalnawaz-heek/heekweather" detail="" title="WEATHER WEBSITE"  />
+
+        <Workleft  link="https://github.com/daniyalnawaz-heek/Password-validator" detail="" title="PASSOWRD VALIDATOR" />
+        <Workright link="https://github.com/daniyalnawaz-heek/Email-sender" detail="" title=" EMAIL AUTOMATION"  />
+        <Workleft  link="https://github.com/daniyalnawaz-heek/url-shortner" detail="" title="URL SHORTNER" />
+        <Workright link="https://github.com/daniyalnawaz-heek/QR-code-generator" detail="" title="QR CODE GENERATOR"  />
+        <Workleft link="https://github.com/daniyalnawaz-heek/tip_calculator" detail="cbhbahbwhb" title="TIP CALCULATOR" />
+        <Workright  link="https://github.com/daniyalnawaz-heek/Jira-clone" detail="" title="JIRA CLONE"   />
+      
+        <Workleft link="https://github.com/daniyalnawaz-heek/pdf_to_text" detail="" title="PDF TO SPEECH"    />
+        <Workright link="https://github.com/daniyalnawaz-heek/text_to_speech" detail="" title="TEXT TO SPEECH"     />
+        <Workleft  link="https://github.com/daniyalnawaz-heek/speech_to_text" detail="" title="SPEECH TO TEXT"   />
+        <Workright link="https://github.com/daniyalnawaz-heek/heeknews" detail="" title="NEWS WEB APP"    />
+      
+
+
+   
         <Footer />
         
       </div>

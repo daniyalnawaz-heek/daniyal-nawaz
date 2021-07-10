@@ -8,14 +8,27 @@ class Education extends Component {
     return (
       <div class="show2">
         <Nav header="EDUCATION"/>
-        <Expertise margin="100px" expert="hgccec"/>
-        <Expertise margin="300px" expert="hgccec"/>
-        <Expertise margin="500px" expert="hgccec"/>
-        <Expertise margin="700px" expert="hgccec"/>
-        <Expertise margin="900px" expert="hgccec"/>
-        <Expertise margin="700px" expert="hgccec"/>
-        <Expertise margin="500px" expert="hgccec"/>
-        <Expertise margin="300px" expert="hgccec"/>
+       
+        <div class="edu-mid">HIGH SCHOOL</div>
+
+        <Expertise margin="300px" expert="COMPLETED MY HIGH SCHOOL FROM ONE OF THE PRESTIGIOUS SCHOOL IN KANPUR, SETH ANANDRAM JAIPURIA SCHOOL"/>
+        <Expertise margin="700px" expert="PERCENTAGE: 89%"/>
+
+        <div class="edu-mid">SECONDARY SCHOOL</div>
+
+        <Expertise margin="700px" expert="COMPLETED MY SECONDRY SCHOOL FROM ONE OF THE PRESTIGIOUS SCHOOL IN KANPUR, SETH ANANDRAM JAIPURIA SCHOOL"/>
+        <Expertise margin="300px" expert="PERCENTAGE: 84%"/>
+
+        <div class="edu-mid">B.TECH</div>
+
+        <Expertise margin="300px" expert="
+        PURSUING MY UNDERGRADUATE IN COMPUTER SCIENCE FROM NOIDA INSTITUTE OF ENGINEERING AND TECHNOLOGY"/>
+        <Expertise margin="700px" expert="AGGREGATE: 8 CGPA"/>
+
+        <div class="edu-mid">VOLUNTEER</div>
+        <Expertise margin="700px" expert="CHIEF SECRETARY AT COMFEST HELD AT SETH ANANDRAM JAIPURIA SCHOOL, KANPUR"/>
+        <Expertise margin="300px" expert="COMFEST IS THE LARGEST STUDENT ORGANISED ANNUAL TECHNO-CULTURAL EVENT ORGANISED BY JAIPURIA COMPUTER CLUB​."/>
+       
         <Footer />
         
         

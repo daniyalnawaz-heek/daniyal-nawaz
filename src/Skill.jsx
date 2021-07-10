@@ -9,6 +9,7 @@ import {SiJavascript}  from 'react-icons/si'
 import {FaPython} from 'react-icons/fa'
 import {SiCss3} from 'react-icons/si'
 import {SiHtml5} from 'react-icons/si'
+import {SiRedux} from 'react-icons/si'
 
 
 
@@ -29,6 +30,7 @@ class Skill extends Component {
       <div class="skill" data-aos="zoom-in-up" style={{"margin-left":this.props.margin}}>
         <div>
           <FaReact />
+          <SiRedux />
           <SiMongodb />
           <FaNodeJs />
           <FaPython />

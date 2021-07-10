@@ -25,7 +25,7 @@ class Workleft extends Component {
           <p>
             {this.props.detail}
           </p>
-          <a href={this.props.link}>VIEW</a>
+          <a class="work-icon" href={this.props.link}>VIEW</a>
         </div>
         
       </div>

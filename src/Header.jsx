@@ -8,6 +8,7 @@ import {SiJavascript}  from 'react-icons/si'
 import {FaPython} from 'react-icons/fa'
 import {SiCss3} from 'react-icons/si'
 import {SiHtml5} from 'react-icons/si'
+import {SiRedux} from 'react-icons/si'
 
 
 
@@ -19,18 +20,19 @@ class Header extends Component {
         
         <Typewriter
           options={{
-            strings: ["Hi, I'm Daniyal Nawaz.", 'A MERN web developer.',"This is my Portfolio.","Made in the A.M."],
+            strings: ["Hi, I'm Daniyal Nawaz.", 'A MERN stack developer.',"This is my Portfolio.","Made in the A.M."],
             autoStart: true,
             loop: true,}}/>
-            <div class="headicons">
-            <FaReact />
-            <SiMongodb />
-            <FaNodeJs />
-            <FaPython />
-            <SiJavascript />
-            <SiMysql />
-            <SiHtml5 /> 
-            <SiCss3 />
+            <div >
+            <FaReact  class="icon"/>
+            <SiRedux class="icon"s/>
+            <SiMongodb class="icon" />
+            <FaNodeJs class="icon" />
+            <FaPython class="icon" />
+            <SiJavascript class="icon" />
+            <SiMysql  class="icon"/>
+            <SiHtml5 class="icon" /> 
+            <SiCss3  class="icon"/>
             
         
             </div>

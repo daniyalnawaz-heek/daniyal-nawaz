@@ -8,6 +8,7 @@ import Sample from './Sample'
 import Work, { Project } from './Project'
 import Skill from './Skill';
 import Skills from './Skills';
+import Experience from './Experience';
 
 
 
@@ -22,6 +23,7 @@ class App extends Component {
           <Route  exact path="/about" component={About}></Route>
           <Route exact path="/education" component={Education}></Route>
           <Route exact path="/skills" component={Skills}></Route>
+          <Route exact path="/experience" component={Experience}></Route>
         </Switch>
         
         
