@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/daniyal-nawaz/static/css/main.fa0513fa.chunk.css",
+    "main.js": "/daniyal-nawaz/static/js/main.9b77300a.chunk.js",
+    "main.js.map": "/daniyal-nawaz/static/js/main.9b77300a.chunk.js.map",
+    "runtime-main.js": "/daniyal-nawaz/static/js/runtime-main.045d5e9e.js",
+    "runtime-main.js.map": "/daniyal-nawaz/static/js/runtime-main.045d5e9e.js.map",
+    "static/css/2.ec02d681.chunk.css": "/daniyal-nawaz/static/css/2.ec02d681.chunk.css",
+    "static/js/2.a9e0154d.chunk.js": "/daniyal-nawaz/static/js/2.a9e0154d.chunk.js",
+    "static/js/2.a9e0154d.chunk.js.map": "/daniyal-nawaz/static/js/2.a9e0154d.chunk.js.map",
+    "index.html": "/daniyal-nawaz/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/daniyal-nawaz/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.fa0513fa.chunk.css.map": "/daniyal-nawaz/static/css/main.fa0513fa.chunk.css.map",
+    "static/js/2.a9e0154d.chunk.js.LICENSE.txt": "/daniyal-nawaz/static/js/2.a9e0154d.chunk.js.LICENSE.txt",
+    "static/media/portfolio.css": "/daniyal-nawaz/static/media/tutu.69fc613c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.045d5e9e.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.a9e0154d.chunk.js",
+    "static/css/main.fa0513fa.chunk.css",
+    "static/js/main.9b77300a.chunk.js"
+  ]
+}
